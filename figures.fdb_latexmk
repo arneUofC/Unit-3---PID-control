@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1677002400 "c:/Users/Arne/OneDrive - University of Calgary/Documents/teaching/ENEL 441/Unit 3 - PID control/figures.tex" "figures.pdf" "figures" 1677002403
-  "c:/Users/Arne/OneDrive - University of Calgary/Documents/teaching/ENEL 441/Unit 3 - PID control/figures.tex" 1677002399 2471 2fe717909c3439f5b773fdd3a35d7e23 ""
+["pdflatex"] 1677002386 "c:/Users/Arne/OneDrive - University of Calgary/Documents/teaching/ENEL 441/Unit 3 - PID control/figures.tex" "figures.pdf" "figures" 1677002388
+  "c:/Users/Arne/OneDrive - University of Calgary/Documents/teaching/ENEL 441/Unit 3 - PID control/figures.tex" 1677002384 2471 823ed2f1d08c9aec1316922fa21ea888 ""
   "c:/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1657901851 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1657900045 1004 54797486969f23fa377b128694d548df ""
   "c:/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1657900045 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -146,8 +146,8 @@
   "c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1657906057 4634946 d2848b86361d48ab78eef9225f65482b ""
   "c:/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1657906359 2864706 ca1db1e69995f2b59b96cced9571b512 ""
   "c:/texlive/2022/texmf.cnf" 1657906012 713 e69b156964470283e0530f5060668171 ""
-  "figures.aux" 1677002403 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "figures.tex" 1677002399 2471 2fe717909c3439f5b773fdd3a35d7e23 ""
+  "figures.aux" 1677002388 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "figures.tex" 1677002384 2471 823ed2f1d08c9aec1316922fa21ea888 ""
   (generated)
   "figures.aux"
   "figures.log"
